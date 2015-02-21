@@ -1,4 +1,4 @@
-Sometimes it's useful to look at world from the another view.
+Sometimes it's useful to look at world from another perspective.
 
 
 In linear algebra, the transpose of a matrix **A** is another matrix **A**<sup>T</sup>
