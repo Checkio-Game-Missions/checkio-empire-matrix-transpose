@@ -1,4 +1,3 @@
-
 In linear algebra, the transpose of a matrix **A** is another matrix **A**<sup>T</sup>
 (also written **A**′, **A**<sup>tr</sup>,<sup>t</sup>**A** or **A**<sup>t</sup>)
 created by any one of the following equivalent actions:
