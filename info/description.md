@@ -19,4 +19,14 @@ If **A** is an _m_ × _n_ matrix then **A**<sup>T</sup> is an _n_ × _m_ matrix.
 You have been given a matrix as a 2D list with integers.
 Your task is to return a transposed matrix based on input.
 
-![Matrix](transposed-matrix.png)
+```
+|1 2 3|   |1 4 7|
+|4 5 6| T |2 5 8|
+|7 8 9|   |3 6 9|
+
+|1 4 3|
+|8 2 6|   |1 8 7 4 7|
+|7 8 3| T |4 2 8 9 8|
+|4 6 9|   |3 6 3 6 1|
+|7 8 1|
+```
