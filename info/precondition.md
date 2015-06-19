@@ -1,5 +1,5 @@
 **Precondition:**
-```python
-0 < len(matrix) < 10
-all(0 < len(row) < 10 for row in matrix)
-```
+
+`0 < |matrix| < 10`
+
+`∀ row ∈ matrix: 0 < |row| < 10`
